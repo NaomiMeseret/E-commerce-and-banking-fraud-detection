@@ -21,3 +21,4 @@ def is_fraud(label: int, dataset: str = "ecommerce") -> bool:
 def target_column(dataset: str = "ecommerce") -> str:
     """Return the target column name for the given dataset."""
     return ECOMMERCE_TARGET_COLUMN if dataset == "ecommerce" else CREDITCARD_TARGET_COLUMN
+# Source init

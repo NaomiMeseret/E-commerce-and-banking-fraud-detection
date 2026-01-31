@@ -7,7 +7,7 @@ This project addresses the challenge of identifying fraudulent activities in two
 The primary goal is to build an automated pipeline capable of distinguishing between legitimate and fraudulent transactions. This is a Supervised Learning (Classification) problem characterized by extreme class imbalance, requiring specialized techniques to ensure accurate detection.
 
 
-🏗️ Project Structure
+## 🏗️ Project Structure
 
 ```text
 
@@ -59,9 +59,9 @@ python -m venv venv
 
 Activate the virtual environment
 
-macOS/Linux: ```bash source venv/bin/activate```
+macOS/Linux: ```source venv/bin/activate```
 
-Windows: ```bash venv\Scripts\activate```
+Windows: ```venv\Scripts\activate```
 
 Install dependencies
 

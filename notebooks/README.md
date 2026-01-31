@@ -36,8 +36,4 @@ This directory contains Jupyter notebooks for the fraud detection project.
    - Model evaluation and comparison
    - Model selection justification
 
-6. **shap-explainability.ipynb**: Model explainability using SHAP
-   - SHAP value calculation
-   - Feature importance visualization
-   - Model decision interpretation
 
